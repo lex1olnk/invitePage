@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "engines": {
+    "node": "^20.11.0"
   },
   "dependencies": {
     "classnames": "^2.5.1",
